@@ -1,6 +1,6 @@
 import os, sys
-print ("\033[32;1m{Masukan username & password}")
-print ("\033[32;1m{mohon masukan user & pw nya dengan benar}")
+print ("\033[32;1m{ Masukan username & password }")
+print ("\033[32;1m{<============================>}")
 username = 'TEYAK'
 password = 'TEAM'
 
